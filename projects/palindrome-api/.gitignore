@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+logs/*
+*.log

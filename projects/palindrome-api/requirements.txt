@@ -1,0 +1,7 @@
+fastapi==0.110.3 #for the api
+uvicorn==0.23.2 #for running the api
+python-dotenv==1.0.0 #for pulling credentials
+pytest==7.4.0 #for testing
+httpx==0.26.0 # for the api
+regex==2024.9.11 #for cleaning strings
+pydantic ==2.7.4

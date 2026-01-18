@@ -54,10 +54,11 @@ outputs/
 demo_output/
 datasets/
 *.mp4
+*.avi
 *.wav
 *.jpg
-*.png
 *.npy
+output_panoramas/
 *.exe
 *.zip
 *.pkg
@@ -65,8 +66,19 @@ datasets/
 *.so
 *.iso
 *.bin
-*.asset
+*.ply
+*.bytes
+*.exr
+*.hdr
 
-# C# / .NET
+# Specific Large Files
+*virtual histological staining*.png
+*optical sectioning*.png
+
+# C# / .NET / Python Builds
 bin/
 obj/
+dist/
+__pycache__/
+*.lock
+push_test.bundle.lock
