@@ -1,84 +1,26 @@
-# General
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
 .DS_Store
-Thumbs.db
-
-# Virtual Environments
-venv/
-.venv/
-env/
-
-# IDEs
-.idea/
-.vscode/
-*.swp
-*.swo
-.vs/
-*.user
-
-# Unity / Game Dev
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-*.pidb.meta
-*.pdb
-*.mdb
-*.op_shader_cache
-*.unityproj
-*.sln
 *.suo
-*.tmp
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.opendb
-*.VC.db
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
-# Node
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# Large Media / Datasets / Binaries
-input_frames/
-outputs/
-demo_output/
-datasets/
-*.mp4
-*.avi
-*.wav
-*.jpg
-*.npy
-output_panoramas/
-*.exe
-*.zip
-*.pkg
-*.dll
-*.so
-*.iso
-*.bin
-*.ply
-*.bytes
-*.exr
-*.hdr
-
-# Specific Large Files
-*virtual histological staining*.png
-*optical sectioning*.png
-
-# C# / .NET / Python Builds
-bin/
-obj/
-dist/
-__pycache__/
-*.lock
-push_test.bundle.lock
+legacy_backup/
