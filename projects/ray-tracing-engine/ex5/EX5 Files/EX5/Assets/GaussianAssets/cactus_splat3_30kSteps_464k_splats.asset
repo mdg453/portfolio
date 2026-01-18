@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: cactus_splat3_30kSteps_464k_splats
+  m_EditorClassIdentifier: GaussianSplatting::GaussianSplatting.Runtime.GaussianSplatAsset
+  m_FormatVersion: 20231020
+  m_SplatCount: 452451
+  m_BoundsMin: {x: -0.86044365, y: -1.9548178, z: -0.7630994}
+  m_BoundsMax: {x: 0.909755, y: 0.57781225, z: 1.018067}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: bc615d4712d476d42b2c003d276fe88a
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: 19c0f0ba2fd6271469485f5566bccf6a, type: 3}
+  m_ColorData: {fileID: 4900000, guid: a764b0fefc5251a4788b453a43e3b5be, type: 3}
+  m_OtherData: {fileID: 4900000, guid: a4d9d78b7f58b474d98d50ba17c88c8f, type: 3}
+  m_SHData: {fileID: 4900000, guid: 38cae61a91f600843a1f4a0d9324bcf0, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []

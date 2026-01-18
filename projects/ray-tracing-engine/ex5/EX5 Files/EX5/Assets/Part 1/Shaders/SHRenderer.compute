@@ -1,0 +1,30 @@
+#pragma kernel CSRenderEquirectangular
+
+#include "SHCommon.hlsl"
+#include "HLSLSupport.cginc"
+
+// INPUT: The 16 SH coefficients.
+StructuredBuffer<float3> _SHCoefficients;
+
+// OUTPUT: The 2D equirectangular texture.
+RWTexture2D<float4> _OutputEquirectangular;
+
+// PARAMETER: The resolution of the texture.
+uint2 _Resolution;
+
+[numthreads(8,8,1)]
+void CSRenderEquirectangular(uint3 id : SV_DispatchThreadID)
+{
+    float2 uv = (float2(id.xy) + 0.5) / _Resolution;
+
+    #if UNITY_UV_STARTS_AT_TOP
+    // Metal Flips UV.Y coord.
+    uv.y = 1.0 - uv.y;
+    #endif
+    
+    float3 finalColor = RenderSHLighting(uv, _SHCoefficients);
+
+    float4 result = float4(finalColor, 1.0);
+    
+    _OutputEquirectangular[id.xy] = result;
+}
