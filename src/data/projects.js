@@ -14,8 +14,16 @@ import fllImg from '../assets/fll.png';
 import detectagasImg from '../assets/detectagas.png';
 import cppImg from '../assets/cpp.png';
 import oopImg from '../assets/oop.png';
+import roboticPianoImg from '../assets/robotic_tuning_piano.png';
 
 export const projects = [
+    {
+        title: "Self Tuning Piano",
+        description: "Advanced ML-powered automated piano tuning system using real-time frequency analysis and noise filtering.",
+        tags: ["Python", "C++", "Machine Learning", "DSP"],
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/self_tuning_piano",
+        image: roboticPianoImg
+    },
     {
         title: "Taba Automation",
         description: "Automated data pipeline to extract, parse, and analyze urban planning (TABA) data using Python, Playwright, and ArcGIS APIs.",
@@ -120,12 +128,5 @@ export const projects = [
         tags: ["Java", "Design Patterns", "University"],
         link: "https://github.com/mdg453/oopex5_v2",
         image: oopImg
-    },
-    {
-        title: "Self Tuning Piano",
-        description: "Advanced ML-powered automated piano tuning system using real-time frequency analysis and noise filtering.",
-        tags: ["Python", "C++", "Machine Learning", "DSP"],
-        link: "https://github.com/mdg453/portfolio/tree/main/projects/self_tuning_piano",
-        image: cppImg
     }
 ];
