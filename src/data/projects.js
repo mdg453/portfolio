@@ -125,7 +125,7 @@ export const projects = [
         title: "Arduino Portenta Project",
         description: "Embedded project for Arduino Portenta.",
         tags: ["C++", "Arduino", "Embedded"],
-        link: "https://github.com/mdg453/arduino_portenta_project",
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/arduino_portenta_project",
         image: cppImg
     }
 ];
