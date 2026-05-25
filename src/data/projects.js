@@ -122,10 +122,10 @@ export const projects = [
         image: oopImg
     },
     {
-        title: "Arduino Portenta Project",
-        description: "Embedded project for Arduino Portenta.",
-        tags: ["C++", "Arduino", "Embedded"],
-        link: "https://github.com/mdg453/portfolio/tree/main/projects/arduino_portenta_project",
+        title: "Self Tuning Piano",
+        description: "Advanced ML-powered automated piano tuning system using real-time frequency analysis and noise filtering.",
+        tags: ["Python", "C++", "Machine Learning", "DSP"],
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/self_tuning_piano",
         image: cppImg
     }
 ];
