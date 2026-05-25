@@ -1,0 +1,157 @@
+{
+  "planNumber": "216-1329408",
+  "planId": 2058055,
+  "cityText": "צפת",
+  "mahut": "צפת - השער הדרומי",
+  "status": "פרסום לתוקף ברשומות",
+  "statusDate": " 01/03/26",
+  "relationType": null,
+  "documentsSet": {
+    "nispachimByGroup": null,
+    "tasritimByGroup": null,
+    "nispachim": [
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\2.pdf",
+        "info": "אקוסטיקה",
+        "codeMismach": 2
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\30_1.pdf",
+        "info": "פרוגרמה לשטחי ציבור 1",
+        "codeMismach": 30
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\30_2.pdf",
+        "info": "פרוגרמה לשטחי ציבור 2",
+        "codeMismach": 30
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\38_1.pdf",
+        "info": "תנועה 1",
+        "codeMismach": 38
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\38_2.pdf",
+        "info": "תנועה 2",
+        "codeMismach": 38
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\38_בהת.pdf",
+        "info": "תנועה בהת",
+        "codeMismach": 38
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\4.pdf",
+        "info": "בינוי",
+        "codeMismach": 4
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\40_איכות_אויר.pdf",
+        "info": "תסקיר השפעה על הסביבה איכות_אויר",
+        "codeMismach": 40
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\42.pdf",
+        "info": "תשתיות חשמל",
+        "codeMismach": 42
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\43.pdf",
+        "info": "תשתיות ביוב",
+        "codeMismach": 43
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\43_חוברת.pdf",
+        "info": "תשתיות ביוב חוברת",
+        "codeMismach": 43
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\44.pdf",
+        "info": "תשתיות מים",
+        "codeMismach": 44
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\45.pdf",
+        "info": "תשתיות ניקוז",
+        "codeMismach": 45
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\47_נופי_סביבתי.pdf",
+        "info": "סביבה ונוף נופי_סביבתי",
+        "codeMismach": 47
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\58.pdf",
+        "info": "תשריט סקר עצים בוגרים",
+        "codeMismach": 58
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\59.pdf",
+        "info": "מסמך סקר עצים בוגרים",
+        "codeMismach": 59
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\66.pdf",
+        "info": "סקר סייסמי",
+        "codeMismach": 66
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\69.pdf",
+        "info": "ניהול מי נגר",
+        "codeMismach": 69
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\7.pdf",
+        "info": "דרכים",
+        "codeMismach": 7
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\75_הודעת_אישור_מתוקנת.pdf",
+        "info": "פרסום למתן תוקף הודעת_אישור_מתוקנת",
+        "codeMismach": 75
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\100\\יחס לתכניות מתאר.pdf",
+        "info": "יחס לתכניות מתאר",
+        "codeMismach": 100
+      },
+      {
+        "path": "/IturTabotData\\nispachim\\tzafon\\2058055\\100\\מסמך החלטות.pdf",
+        "info": "מסמך החלטות",
+        "codeMismach": 100
+      }
+    ],
+    "tasritim": [
+      {
+        "path": "/IturTabotData\\tabot\\tzafon\\2058055\\מצב מאושר.pdf",
+        "info": "מצב מאושר",
+        "codeMismach": 0
+      },
+      {
+        "path": "/IturTabotData\\tabot\\tzafon\\2058055\\מצב מוצע-גיליון 1.pdf",
+        "info": "מצב מוצע-גיליון 1",
+        "codeMismach": 0
+      },
+      {
+        "path": "/IturTabotData\\tabot\\tzafon\\2058055\\מצב מוצע-גיליון 2.pdf",
+        "info": "מצב מוצע-גיליון 2",
+        "codeMismach": 0
+      }
+    ],
+    "mmg": {
+      "path": "/IturTabotData\\download\\tzafon\\2058055.zip",
+      "info": "הורדת קבצי ממג 92 KB",
+      "codeMismach": 0
+    },
+    "map": {
+      "path": "http://old.govmap.gov.il/mmi?app=app07&ma=2058055",
+      "info": "אתר המפות הממשלתי",
+      "codeMismach": 0
+    },
+    "takanon": {
+      "path": "/IturTabotData/takanonim/tzafon/2058055.pdf",
+      "info": "תקנון סרוק",
+      "codeMismach": 0
+    }
+  }
+}

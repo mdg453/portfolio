@@ -1,0 +1,6 @@
+*.db
+*.xlsx
+*.pdf
+downloaded_plans/
+test_downloads/
+__pycache__/
