@@ -1,4 +1,5 @@
 
+import tabaAutomationImg from '../assets/taba_automation.png';
 import hebrewTranscriberImg from '../assets/hebrew_transcriber.png';
 import panoramaImg from '../assets/panorama.png';
 import pyramidBlendingImg from '../assets/thumb_pyramid_blending.png';
@@ -15,6 +16,13 @@ import cppImg from '../assets/cpp.png';
 import oopImg from '../assets/oop.png';
 
 export const projects = [
+    {
+        title: "Taba Automation",
+        description: "Automated data pipeline to extract, parse, and analyze urban planning (TABA) data using Python, Playwright, and ArcGIS APIs.",
+        tags: ["Python", "Playwright", "Data Engineering"],
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/taba_automation",
+        image: tabaAutomationImg
+    },
     {
         title: "Hebrew Transcriber",
         description: "High-accuracy Hebrew speech-to-text tool using fine-tuned Whisper models and FFmpeg.",
