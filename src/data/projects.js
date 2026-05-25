@@ -120,5 +120,12 @@ export const projects = [
         tags: ["Java", "Design Patterns", "University"],
         link: "https://github.com/mdg453/oopex5_v2",
         image: oopImg
+    },
+    {
+        title: "Arduino Portenta Project",
+        description: "Embedded project for Arduino Portenta.",
+        tags: ["C++", "Arduino", "Embedded"],
+        link: "https://github.com/mdg453/arduino_portenta_project",
+        image: cppImg
     }
 ];
