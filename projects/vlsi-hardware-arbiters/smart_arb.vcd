@@ -1,0 +1,163 @@
+$date
+	Wed Jun 10 01:49:46 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module smart_arb_tb $end
+$var wire 3 ! gnt [2:0] $end
+$var reg 1 " clk $end
+$var reg 3 # req [2:0] $end
+$var reg 1 $ rst_n $end
+$scope module uut $end
+$var wire 1 " clk $end
+$var wire 3 % req [2:0] $end
+$var wire 1 $ rst_n $end
+$var reg 3 & gnt [2:0] $end
+$var reg 2 ' last_one_gnt [1:0] $end
+$var reg 2 ( last_two_gnt [1:0] $end
+$var reg 2 ) score0 [1:0] $end
+$var reg 2 * score1 [1:0] $end
+$var reg 2 + score2 [1:0] $end
+$var reg 2 , winner [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b11 ,
+b0 +
+b1 *
+b10 )
+b1 (
+b10 '
+b0 &
+b0 %
+0$
+b0 #
+0"
+b0 !
+$end
+#5000
+1"
+#10000
+0"
+#12000
+1$
+#15000
+1"
+#20000
+b0 ,
+b1 #
+b1 %
+0"
+#25000
+b1 +
+b10 *
+b0 )
+b1 !
+b1 &
+b0 '
+b10 (
+1"
+#30000
+0"
+#35000
+b10 +
+b0 (
+1"
+#40000
+b1 ,
+b111 #
+b111 %
+0"
+#45000
+b10 ,
+b0 *
+b1 )
+b10 !
+b10 &
+b1 '
+1"
+#50000
+0"
+#55000
+b0 ,
+b0 +
+b1 *
+b10 )
+b100 !
+b100 &
+b10 '
+b1 (
+1"
+#60000
+0"
+#65000
+b1 ,
+b1 +
+b10 *
+b0 )
+b1 !
+b1 &
+b0 '
+b10 (
+1"
+#70000
+b110 #
+b110 %
+0"
+#75000
+b10 ,
+b10 +
+b0 *
+b1 )
+b10 !
+b10 &
+b1 '
+b0 (
+1"
+#80000
+b11 ,
+b0 #
+b0 %
+0"
+#85000
+b0 !
+b0 &
+1"
+#90000
+b10 ,
+b101 #
+b101 %
+0"
+#95000
+b0 ,
+b0 +
+b1 *
+b10 )
+b100 !
+b100 &
+b10 '
+b1 (
+1"
+#100000
+0"
+#105000
+b10 ,
+b1 +
+b10 *
+b0 )
+b1 !
+b1 &
+b0 '
+b10 (
+1"
+#110000
+0"

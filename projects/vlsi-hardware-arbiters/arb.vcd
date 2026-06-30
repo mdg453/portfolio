@@ -1,0 +1,169 @@
+$date
+	Wed Jun 10 01:49:46 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module arb_tb $end
+$var wire 3 ! gnt [2:0] $end
+$var reg 1 " clk $end
+$var reg 3 # req [2:0] $end
+$var reg 1 $ rst_n $end
+$var reg 24 % state_name [23:0] $end
+$scope module uut $end
+$var wire 1 " clk $end
+$var wire 3 & req [2:0] $end
+$var wire 1 $ rst_n $end
+$var parameter 3 ' RST $end
+$var parameter 3 ( S_0 $end
+$var parameter 3 ) S_1 $end
+$var parameter 3 * S_2 $end
+$var reg 3 + gnt [2:0] $end
+$var reg 3 , next_state [2:0] $end
+$var reg 3 - state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 *
+b10 )
+b1 (
+b0 '
+$end
+#0
+$dumpvars
+b0 -
+b0 ,
+b0 +
+b0 &
+b10100100101001101010100 %
+0$
+b0 #
+0"
+b0 !
+$end
+#5000
+1"
+#10000
+0"
+#12000
+1$
+#15000
+1"
+#20000
+0"
+#25000
+1"
+#30000
+b1 ,
+b1 #
+b1 &
+0"
+#35000
+b1 !
+b1 +
+b10100110101111100110000 %
+b1 -
+1"
+#40000
+b10 ,
+b10 #
+b10 &
+0"
+#45000
+b10100110101111100110001 %
+b10 !
+b10 +
+b10 -
+1"
+#50000
+b100 ,
+b100 #
+b100 &
+0"
+#55000
+b100 !
+b100 +
+b10100110101111100110010 %
+b100 -
+1"
+#60000
+b1 ,
+b111 #
+b111 &
+0"
+#65000
+b10100110101111100110000 %
+b1 !
+b1 +
+b10 ,
+b1 -
+1"
+#70000
+b110 #
+b110 &
+0"
+#75000
+b10 !
+b10 +
+b10100110101111100110001 %
+b100 ,
+b10 -
+1"
+#80000
+b100 #
+b100 &
+0"
+#85000
+b10100110101111100110010 %
+b100 !
+b100 +
+b100 -
+1"
+#90000
+b0 ,
+b0 #
+b0 &
+0"
+#95000
+b0 !
+b0 +
+b10100100101001101010100 %
+b0 -
+1"
+#100000
+b1 ,
+b111 #
+b111 &
+0"
+#105000
+b10100110101111100110000 %
+b1 !
+b1 +
+b10 ,
+b1 -
+1"
+#110000
+0"
+#115000
+b10 !
+b10 +
+b10100110101111100110001 %
+b100 ,
+b10 -
+1"
+#120000
+0"
+#125000
+b10100110101111100110010 %
+b100 !
+b100 +
+b1 ,
+b100 -
+1"
+#130000
+0"

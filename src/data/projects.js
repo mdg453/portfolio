@@ -128,5 +128,19 @@ export const projects = [
         tags: ["Java", "Design Patterns", "University"],
         link: "https://github.com/mdg453/oopex5_v2",
         image: oopImg
+    },
+    {
+        title: "Hardware Arbiters & State Machines",
+        description: "Front-End VLSI design project implementing various bus arbitration protocols using Verilog.",
+        tags: ["Verilog", "VLSI", "Digital Logic"],
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/vlsi-hardware-arbiters",
+        image: cppImg
+    },
+    {
+        title: "VLSI Traffic Light Controller",
+        description: "Comprehensive digital logic project simulating a multi-directional traffic light system.",
+        tags: ["Verilog", "FSM", "Testbenches"],
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/vlsi-traffic-controller",
+        image: cppImg
     }
 ];
