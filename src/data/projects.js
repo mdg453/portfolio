@@ -112,14 +112,14 @@ export const projects = [
         title: "DetectaGas",
         description: "Google Developer Student Club (GDSC) project for gas detection and safety.",
         tags: ["C++", "IoT", "GDSC"],
-        link: "https://github.com/mdg453/DetectaGas",
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/detectagas",
         image: detectagasImg
     },
     {
         title: "C++ Programming",
         description: "Advanced C++ programming exercises focusing on memory management and efficiency.",
         tags: ["C++", "Algorithms", "Performance"],
-        link: "https://github.com/mdg453/cpp---1",
+        link: "https://github.com/mdg453/portfolio/tree/main/projects/c-cpp",
         image: cppImg
     },
     {
